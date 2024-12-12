@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+opencv-python
+aiohttp
+requests
+apify-client
+openai
+pillow
